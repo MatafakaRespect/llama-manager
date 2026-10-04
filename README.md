@@ -4,6 +4,7 @@ A small, portable and efficient wrapper for llama.cpp written in Python. Unifies
 - Portability - Run the same binaries on different hardware configurations.
 - Efficiency - Uses ~30-40 MB of space, tens of times smaller when compared to popular programs with the same purpose.
 - Usability - Contains a lot of features from similar wrappers.
+- Easy to understand - contains arguments from select utilities so users don't have to dig through llama.cpp documentation.
 # Binaries included
 - llama-cli - Local inference using a command line
 - llama-server - llama-cli, but accessed via a browser
