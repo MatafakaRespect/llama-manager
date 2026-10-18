@@ -16,3 +16,5 @@ A small, portable and efficient wrapper for llama.cpp written in Python. Unifies
 - The program utilizes the CPU backend only (with basic AVX support).
 - I'm a beginner at coding, so don't expect everything to be perfect at release.
 - This program includes parts of [Easy-Quant](https://github.com/krystianowak/Easy-Quant). It will reach its EOL in version v0.0.5 and development will move here.
+
+This project bundles the pre-compiled binaries from the llama.cpp project. llama.cpp is licensed under the MIT License. Copyright (c) 2023-2026 Georgi Gerganov and the ggml authors.
